@@ -1,0 +1,27 @@
+﻿@model Lab21.Models.RegisterDetailsViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Contact</title>
+</head>
+<body>
+
+    <h2>First Name: @Model.FirstName</h2>
+    <h2>Last Name: @Model.LastName</h2>
+    <h2>Email Address: @Model.EmailAddress</h2>
+    <h2>Phone Number: @Model.PhoneNumber</h2>
+    <h2>Password: @Model.Password</h2>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+</body>
+</html>
