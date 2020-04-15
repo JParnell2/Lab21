@@ -1,0 +1,12 @@
+﻿@model Lab21.Models.Coffee.AddCoffeeViewModel
+
+<form asp-action="PostCoffee" asp-controller="Coffee">
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+
+        <input type="submit" value="Add Coffee!" />
+    </div>
+
+</form>

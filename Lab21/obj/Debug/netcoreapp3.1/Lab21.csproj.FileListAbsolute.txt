@@ -37,3 +37,6 @@ C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3
 C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3.1\Lab21.pdb
 C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3.1\Lab21.genruntimeconfig.cache
 C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3.1\Lab21.csproj.CopyComplete
+C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3.1\Razor\Views\Coffee\AddCoffee.cshtml.g.cs
+C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3.1\Razor\Views\Coffee\Coffees.cshtml.g.cs
+C:\Users\Grand Circus Student\Desktop\C# Notes\Lab21\Lab21\obj\Debug\netcoreapp3.1\Razor\Views\Coffee\PostCoffee.cshtml.g.cs

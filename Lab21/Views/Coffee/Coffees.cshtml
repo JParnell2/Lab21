@@ -1,0 +1,26 @@
+﻿@model Lab21.Models.Coffee.CoffeesViewModel
+
+<div>
+    <h2>Check out THESE Coffees!</h2>
+</div>
+
+<ul>
+    @foreach (var coffee in Model.Coffees)
+    {
+        <li>
+            <div>
+                <h4>@coffee</h4>
+                <a asp-action="DeleteCoffee"
+                   asp-controller="Coffee"
+                   asp-route-name="@coffee">
+                    Delete
+                </a>
+            </div>
+        </li>
+    }
+</ul>
+
+
+<button>
+    <a asp-action="AddCoffee" asp-controller="Coffee">Add Coffee</a>
+</button>
